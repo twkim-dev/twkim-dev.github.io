@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "마카롱 코딩"
-title_separator          : "-"
+title_separator          : "Enjoy Challenge"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TaeWan Kim"
-description              : "Enjoy Challenge"
+description              : "Enjoy Challenge!"
 url                      : https://twkim-dev.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "TaeWan Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "발전하는 개발자가 되고 싶은 주니어 개발자"
+  bio              : "Enjoy Challenge!"
   location         : "Seoul"
   email            :
   links:
