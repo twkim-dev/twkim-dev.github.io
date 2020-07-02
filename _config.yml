@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "기억보단 기록을"
+title                    : "마카롱 코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TaeWan Kim"
-description              : "발전하는 개발자가 되고 싶은 주니어 개발자"
+description              : "주니어 개발자의 기술 블로그"
 url                      : https://twkim-dev.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
